@@ -75,7 +75,7 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Rider 파일 제외
-idea/*
+.idea/*
 Plugins/Developer/*
 
 #에셋 제외
