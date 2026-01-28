@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Rider 파일 제외
+idea/*
+Plugins/Developer/*
+
+#에셋 제외
+Content/Assets/*
