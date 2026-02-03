@@ -1,6 +1,7 @@
 # DeadByDaylight_ProjectFiles
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/MF6vUPf_xW8/0.jpg)](https://youtu.be/MF6vUPf_xW8)
 * 데드 바이 데이라이트 게임 모작 프로젝트입니다.
-  
+
 ## 개요
 * 게임: Dead By Daylight
 * 작업 기간: 25.09.01 ~ 25.11.06
@@ -20,8 +21,8 @@
 * 관리
 <br />![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 
-## 자료
-* [PDF 자료](https://drive.google.com/file/d/1sK6pO1RPUcEy97MlkMlrmkZVO4wCyjhE/view?usp=drive_link, "구현 내용의 문서화 파일입니다.")
+## 기술문서
+* [데바데 모작 맵 기술문서](https://drive.google.com/file/d/1sK6pO1RPUcEy97MlkMlrmkZVO4wCyjhE/view?usp=drive_link, "구현 내용의 문서화 파일입니다.")
 
 ## 핵심 구현
 ### 1. 타일 배치
