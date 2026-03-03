@@ -22,7 +22,7 @@
 <br />![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 
 ## 기술문서
-* [데바데 모작 맵 기술문서](https://drive.google.com/file/d/1sK6pO1RPUcEy97MlkMlrmkZVO4wCyjhE/view?usp=drive_link, "구현 내용의 문서화 파일입니다.")
+* [데바데 모작 맵 기술문서](https://drive.google.com/file/d/1oZLR1e3k0DiBH3oO0cItkgTnVHTTHob4/view?usp=drive_link, "구현 내용의 문서화 파일입니다.")
 
 ## 핵심 구현
 ### 1. 타일 배치
